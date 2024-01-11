@@ -1,0 +1,28 @@
+.head{
+    text-align: center;
+    margin: 0px;
+}
+#nav{
+    text-align: center;
+    word-spacing: 150;
+}
+
+#picture{
+    width: 200px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+#para{
+    word-spacing: 100px;
+}
+#para-2{
+    text-align: center;
+}
+#pic2{
+    width: 300px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+#line{
+    border-top:2px solid rgba(0, 0, 0, 0.677);
+}
